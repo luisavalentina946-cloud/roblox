@@ -1,9 +1,3 @@
-/*
-Roblox Version: version-8884371d30284041
-THIS IS AUTOMATIC AND ERRORS CAN OCCUR
-Contact: contact@rbxoffsets.xyz
-*/
-
 namespace offsets {
     inline constexpr uintptr_t AbsolutePosition = 0x110;
     inline constexpr uintptr_t AbsoluteRotation = 0x188;
